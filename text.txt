@@ -1,0 +1,2 @@
+Hack For user : If you use binary search method, you can able to get the value quickly 
+
